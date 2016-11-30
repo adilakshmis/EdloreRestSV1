@@ -1,0 +1,7 @@
+
+[
+	{ "name" : "Extract Drawings" , "url" : "http://172.16.11.125:9080/cds/rest/wex/search?query=ExtractDrawings"},
+	{ "name" : "Extract Safety Measures" , "url" : "http://172.16.11.125:9080/cds/rest/wex/search?query=ExtractSafetyMeasures"},
+	{ "name" : "Extract Troubleshooting Knowledge Tree" , "url" :  "http://172.16.11.125:9080/cds/rest/wex/extraparams"},
+	
+]

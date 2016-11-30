@@ -1,0 +1,7 @@
+[
+		
+	{ "name" : "Extract Troubles" , "url" : "http://172.16.11.125:9080/cds/rest/wex/search?query=ExtractTroubles"},
+	{ "name" : "Extract Correlating Problems" , "url" : "http://172.16.11.125:9080/cds/rest/wex/search?query=ExtractCorrelatingProblems"},
+	{ "name" : "Extract Correlating Remedy(ies)" , "url" : "http://172.16.11.125:9080/cds/rest/wex/search?query=ExtractCorrelatingRemedy(ies)"},	
+		
+]
